@@ -1,0 +1,17 @@
+let a="farhan"
+let b="arhaan"
+ console.log(a[0])
+ console.log(a[1])
+ console.log(a[2])
+ console.log(a[3])
+ console.log(a[4])
+ console.log(a[5])
+   console.log(a.length)
+    console.log("hello my name is " + a + " and my friend name is " + b )
+    console.log(`hello my name is ${a} and my friend name is ${b}`)
+    console.log(a.toUpperCase())
+    console.log(a.toLowerCase())
+    console.log(a.slice(1,5))
+      console.log(a.slice(1))
+      console.log(a.replace("fa","22"))
+      console.log(a.concat ( b ," khan "," pathan"))
